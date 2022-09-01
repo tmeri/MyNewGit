@@ -12,9 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1661988258,,"wq"
+|2,0,1662002604,,"wq"
 :q
-|2,0,1661988057,,"q"
+|2,0,1662002539,,"q"
 :x
 |2,0,1629140987,,"x"
 
@@ -32,34 +32,144 @@
 |3,0,26,0,1,0,1661918200,""
 
 # File marks:
-'0  1  24  ~/styles.css
-|4,48,1,24,1661988258,"~/styles.css"
-'1  1  10  ~/app.js
-|4,49,1,10,1661988074,"~/app.js"
-'2  1  0  ~/app.ja
-|4,50,1,0,1661988057,"~/app.ja"
-'3  3  13  ~/content-git-quickstart/toc.txt
-|4,51,3,13,1661918280,"~/content-git-quickstart/toc.txt"
-'4  3  26  ~/content-git-quickstart/todo
-|4,52,3,26,1661915527,"~/content-git-quickstart/todo"
-'5  1  29  ~/content-git-quickstart/todo
-|4,53,1,29,1661915468,"~/content-git-quickstart/todo"
-'6  1  29  ~/content-git-quickstart/todo
-|4,54,1,29,1661915468,"~/content-git-quickstart/todo"
-'7  2  4  ~/quickstart/.gitignore
-|4,55,2,4,1661912522,"~/quickstart/.gitignore"
-'8  2  0  ~/quickstart/.gitignore
-|4,56,2,0,1661912472,"~/quickstart/.gitignore"
-'9  2  2  ~/quickstart/.gitignore
-|4,57,2,2,1661912427,"~/quickstart/.gitignore"
+'0  1  15  ~/hi-there.cpp
+|4,48,1,15,1662002604,"~/hi-there.cpp"
+'1  1  0  ~/hi-there.cpp
+|4,49,1,0,1662002539,"~/hi-there.cpp"
+'2  1  0  ~/hi-there/hi-there
+|4,50,1,0,1662001209,"~/hi-there/hi-there"
+'3  1  24  ~/styles.css
+|4,51,1,24,1661988258,"~/styles.css"
+'4  1  10  ~/app.js
+|4,52,1,10,1661988074,"~/app.js"
+'5  1  0  ~/app.ja
+|4,53,1,0,1661988057,"~/app.ja"
+'6  3  13  ~/content-git-quickstart/toc.txt
+|4,54,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+'7  3  26  ~/content-git-quickstart/todo
+|4,55,3,26,1661915527,"~/content-git-quickstart/todo"
+'8  1  29  ~/content-git-quickstart/todo
+|4,56,1,29,1661915468,"~/content-git-quickstart/todo"
+'9  1  29  ~/content-git-quickstart/todo
+|4,57,1,29,1661915468,"~/content-git-quickstart/todo"
 
 # Jumplist (newest first):
+-'  1  15  ~/hi-there.cpp
+|4,39,1,15,1662002604,"~/hi-there.cpp"
+-'  1  0  ~/hi-there.cpp
+|4,39,1,0,1662002539,"~/hi-there.cpp"
+-'  1  0  ~/hi-there/hi-there
+|4,39,1,0,1662001209,"~/hi-there/hi-there"
+-'  1  0  ~/hi-there/hi-there
+|4,39,1,0,1662001209,"~/hi-there/hi-there"
+-'  1  0  ~/hi-there/hi-there
+|4,39,1,0,1662001209,"~/hi-there/hi-there"
+-'  1  0  ~/hi-there/hi-there
+|4,39,1,0,1662001209,"~/hi-there/hi-there"
+-'  1  24  ~/styles.css
+|4,39,1,24,1661988258,"~/styles.css"
+-'  1  24  ~/styles.css
+|4,39,1,24,1661988258,"~/styles.css"
+-'  1  24  ~/styles.css
+|4,39,1,24,1661988258,"~/styles.css"
+-'  1  24  ~/styles.css
+|4,39,1,24,1661988258,"~/styles.css"
+-'  1  24  ~/styles.css
+|4,39,1,24,1661988258,"~/styles.css"
+-'  1  24  ~/styles.css
+|4,39,1,24,1661988258,"~/styles.css"
+-'  1  24  ~/styles.css
+|4,39,1,24,1661988258,"~/styles.css"
 -'  1  24  ~/styles.css
 |4,39,1,24,1661988258,"~/styles.css"
 -'  1  10  ~/app.js
 |4,39,1,10,1661988074,"~/app.js"
 -'  1  10  ~/app.js
 |4,39,1,10,1661988074,"~/app.js"
+-'  1  10  ~/app.js
+|4,39,1,10,1661988074,"~/app.js"
+-'  1  10  ~/app.js
+|4,39,1,10,1661988074,"~/app.js"
+-'  1  10  ~/app.js
+|4,39,1,10,1661988074,"~/app.js"
+-'  1  10  ~/app.js
+|4,39,1,10,1661988074,"~/app.js"
+-'  1  10  ~/app.js
+|4,39,1,10,1661988074,"~/app.js"
+-'  1  10  ~/app.js
+|4,39,1,10,1661988074,"~/app.js"
+-'  1  10  ~/app.js
+|4,39,1,10,1661988074,"~/app.js"
+-'  1  10  ~/app.js
+|4,39,1,10,1661988074,"~/app.js"
+-'  1  10  ~/app.js
+|4,39,1,10,1661988074,"~/app.js"
+-'  1  10  ~/app.js
+|4,39,1,10,1661988074,"~/app.js"
+-'  1  10  ~/app.js
+|4,39,1,10,1661988074,"~/app.js"
+-'  1  10  ~/app.js
+|4,39,1,10,1661988074,"~/app.js"
+-'  1  10  ~/app.js
+|4,39,1,10,1661988074,"~/app.js"
+-'  1  10  ~/app.js
+|4,39,1,10,1661988074,"~/app.js"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
+-'  1  0  ~/app.ja
+|4,39,1,0,1661988057,"~/app.ja"
 -'  1  0  ~/app.ja
 |4,39,1,0,1661988057,"~/app.ja"
 -'  1  0  ~/app.ja
@@ -84,178 +194,79 @@
 |4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
 -'  3  13  ~/content-git-quickstart/toc.txt
 |4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
--'  1  0  ~/content-git-quickstart/toc.txt
-|4,39,1,0,1661918238,"~/content-git-quickstart/toc.txt"
--'  1  0  ~/content-git-quickstart/toc.txt
-|4,39,1,0,1661918238,"~/content-git-quickstart/toc.txt"
--'  1  0  ~/content-git-quickstart/toc.txt
-|4,39,1,0,1661918238,"~/content-git-quickstart/toc.txt"
--'  1  0  ~/content-git-quickstart/toc.txt
-|4,39,1,0,1661918238,"~/content-git-quickstart/toc.txt"
--'  1  0  ~/content-git-quickstart/toc.txt
-|4,39,1,0,1661918238,"~/content-git-quickstart/toc.txt"
--'  1  0  ~/content-git-quickstart/toc.txt
-|4,39,1,0,1661918238,"~/content-git-quickstart/toc.txt"
--'  1  0  ~/content-git-quickstart/toc.txt
-|4,39,1,0,1661918238,"~/content-git-quickstart/toc.txt"
--'  1  0  ~/content-git-quickstart/toc.txt
-|4,39,1,0,1661918238,"~/content-git-quickstart/toc.txt"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  3  26  ~/content-git-quickstart/todo
-|4,39,3,26,1661915527,"~/content-git-quickstart/todo"
--'  1  29  ~/content-git-quickstart/todo
-|4,39,1,29,1661915512,"~/content-git-quickstart/todo"
--'  1  29  ~/content-git-quickstart/todo
-|4,39,1,29,1661915512,"~/content-git-quickstart/todo"
--'  1  29  ~/content-git-quickstart/todo
-|4,39,1,29,1661915512,"~/content-git-quickstart/todo"
--'  1  29  ~/content-git-quickstart/todo
-|4,39,1,29,1661915512,"~/content-git-quickstart/todo"
--'  1  29  ~/content-git-quickstart/todo
-|4,39,1,29,1661915512,"~/content-git-quickstart/todo"
--'  1  29  ~/content-git-quickstart/todo
-|4,39,1,29,1661915512,"~/content-git-quickstart/todo"
--'  1  29  ~/content-git-quickstart/todo
-|4,39,1,29,1661915512,"~/content-git-quickstart/todo"
--'  1  29  ~/content-git-quickstart/todo
-|4,39,1,29,1661915512,"~/content-git-quickstart/todo"
--'  1  29  ~/content-git-quickstart/todo
-|4,39,1,29,1661915512,"~/content-git-quickstart/todo"
--'  1  29  ~/content-git-quickstart/todo
-|4,39,1,29,1661915512,"~/content-git-quickstart/todo"
--'  1  29  ~/content-git-quickstart/todo
-|4,39,1,29,1661915512,"~/content-git-quickstart/todo"
--'  1  29  ~/content-git-quickstart/todo
-|4,39,1,29,1661915512,"~/content-git-quickstart/todo"
--'  1  29  ~/content-git-quickstart/todo
-|4,39,1,29,1661915512,"~/content-git-quickstart/todo"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
+-'  3  13  ~/content-git-quickstart/toc.txt
+|4,39,3,13,1661918280,"~/content-git-quickstart/toc.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/hi-there.cpp
+	*	1662002603	0
+	"	1	15
+	^	1	16
+	.	1	15
+	+	1	15
+
+> ~/hi-there/hi-there
+	*	1662001198	0
+	"	1	0
 
 > ~/styles.css
 	*	1661988257	0

@@ -1,3 +1,5 @@
 [user]
 	name = Temesgen Meri
 	email = temesgen.solomon@gmail.com
+[core]
+	editor = /us/bin/vim

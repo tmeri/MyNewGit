@@ -116,3 +116,121 @@ git checkout bugfix
 cat toc.txt
 ls
 exit
+ls
+mkdir GitVideo
+ls
+git init
+ls -a
+git status
+touch index.html
+git status
+git add index.html 
+git status
+git commit -m "Commit message"
+git status
+git log
+touch app.js
+touch styles.css
+ls
+git log
+vim app.ja
+vim app.js
+git status
+git add app.js
+git status
+git commit -m " updated app.js"
+git status
+git log
+vim styles.css
+git status
+cat styles.css
+add git styles.css
+git add styles.css
+git commit -m "Update Styles.css"
+git status
+git log
+git add .
+git branch
+git checkout master
+git branch
+git status
+git branch crazycolors
+git branch
+git status
+git log
+git status
+git add .
+git commit -m "add animated bg"
+git status
+git remote add origin https://github.com/tmeri/NewRepo.git
+git remoe -v
+git remote -v
+git push -u origin master
+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
+git status
+ls -la
+git status
+git clone git@github.com:tmeri/tmeri.git
+which git
+git --ver
+yum install git
+sudo yum install git
+git --version
+which git
+man git
+sudo apt-get install git
+git --version
+ls .git/
+cd COMMIT_EDITMSG
+CD HEAD
+cat config
+git init hi-there
+.git/
+ls .git/
+ls -la
+ls -a hi-there/
+ls -a hi-there/.git
+git init test/
+ls -a
+ls -la
+ls -a test/
+git init --bare big-project.git
+git status
+git log
+ls -a big-project.git
+ls -la big-project.git
+ls -la 
+git status
+rm -rf big-project.git/
+git status
+git config --global user.name "Temesgen Meri"
+git config --global user.email "temesgen.solomon@gmail.com"
+git config --list
+git config --global core.editor "/us/bin/vim"
+git config --list
+cat ~/.gitconfig
+cd fake-project/
+mkdir fake-project
+ls -a
+cd fake-project/
+git config user.email "temesgen@example.com"
+git config --list
+git cinfig user.email
+git config user.email
+cd
+git config user.email
+git config --list
+git config user.email
+man git config
+ls
+cd hi-there/
+ls
+touch README.md
+ls
+git add README.md
+cat .git/index
+git status
+mkdir src
+git add src/
+git status
+vim hi-there
